@@ -4,7 +4,7 @@ body{
     padding: 2px;
     background-color: rgb(246, 243, 239);
     color: #000000;
-    line-height: 1.6
+    line-height: 1.6;
     }
     header{
         background-color: #222;
@@ -14,6 +14,7 @@ body{
     }
     header p{
         font-style: italic;
+        margin-top: 0%;
     }
     section {
         background: rgb(231, 221, 209);
